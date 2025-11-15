@@ -1,4 +1,4 @@
-# Citizens Reporting App (Cordova)
+# Citizen Reporting App (Cordova)
 
 **Description:**  
 The **Citizens Reporting App** is a mobile application developed as the final project for the **Mobile App Development Training** at **Bincom Dev Center**.  
